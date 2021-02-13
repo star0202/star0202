@@ -1,4 +1,5 @@
 #한국만 가능
+#only korean
 import requests 
 from bs4 import BeautifulSoup
 location = input()
