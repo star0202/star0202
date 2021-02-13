@@ -1,6 +1,7 @@
+#한국만 가능
 import requests 
 from bs4 import BeautifulSoup
-location = "서울 강남구 개포동"
+location = input()
 Finallocation = location + '날씨' 
 LocationInfo = "" 
 NowTemp = "" 
