@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @star0202
-- 👀 I’m interested in programming and games.
-- 🌱 I’m currently learning Python.
-- 📫 If you would like to contact me, please contact me at cocoayumyum9374@gmail.com.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=star0202&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=star0202&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
