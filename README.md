@@ -12,12 +12,12 @@
 
 - **~~한국어~~**
 - **~~영어~~**
-- 파이썬
-- html
+- **파이썬**
+- **html**
 
 <p align="center">
 <h1 align="center">연락처 🔔</h2>
 </p>
 
-- [Discord](https://discord.com/users/798690702635827200) 
-- [Mail](mailto:cocoayumyum9374@gmail.com)
+- [**Discord**](https://discord.com/users/798690702635827200) 
+- [**Mail**](mailto:cocoayumyum9374@gmail.com)
