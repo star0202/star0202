@@ -9,4 +9,4 @@
 <p align="center">
 <h1 align="center">연락처</h2>
 <a href="https://discord.com/users/798690702635827200"><img src="https://cdn.iconscout.com/icon/free/png-256/discord-2474808-2056094.png" alt="Discord"/></a>
-<a href="mailto:cocoayumyum9374@gmail.com"><img scr="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" alt="Gmail">
+<a href="mailto:cocoayumyum9374@gmail.com"><img scr="https://cdn.iconscout.com/icon/free/png-256/gmail-30-722694.png" alt="Gmail">
