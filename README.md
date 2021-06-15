@@ -14,6 +14,7 @@
 - **~~영어~~**
 - **파이썬** (70% 사용 가능)
 - **html** (20% 사용 가능)
+- **JavaScript** (5% 사용 가능)
 
 <p align="center">
 <h1 align="center">연락처 🔔</h2>
