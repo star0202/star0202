@@ -4,7 +4,8 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=star0202&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=star0202&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=star0202&langs_count=8&theme=radical)
+
 
 <p align="center">
 <h1 align="center">사용할 수 있는 언어 🛠</h2>
