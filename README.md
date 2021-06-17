@@ -8,18 +8,13 @@
 
 
 <p align="center">
-<h1 align="center">Available Languages 🛠</h2>
-<p align="center">
-Python
-</p>
-<p align="center">
-HTML
-</p>
-<p align="center">
-JavaScript
-</p>
-<p align="center">
-<h1 align="center">Contact 🔔</h2>
+  <h1 align="center">Available Languages 🛠</h2>
+  <b>
+  <p align="center">Python</p>
+  <p align="center">HTML</p>
+  <p align="center">JavaScript</p>
+  </b>
+  <h1 align="center">Contact 🔔</h2>
 </p>
 
 - [**Discord**](https://discord.com/users/798690702635827200) 
