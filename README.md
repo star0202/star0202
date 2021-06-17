@@ -9,14 +9,15 @@
 
 <p align="center">
 <h1 align="center">Available Languages 🛠</h2>
+<p align="center">
+Python
 </p>
-
-- **~~Korean~~**
-- **~~English~~**
-- **Python**
-- **HTML**
-- **JavaScript**
-
+<p align="center">
+HTML
+</p>
+<p align="center">
+JavaScript
+</p>
 <p align="center">
 <h1 align="center">Contact 🔔</h2>
 </p>
