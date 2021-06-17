@@ -22,4 +22,4 @@
 </p>
 
 - [**Discord**](https://discord.com/users/798690702635827200) 
-- [**Mail**](mailto:cocoayumyum9374@gmail.com)
+- [**Mail**](mailto:devstar0202@gmail.com)
