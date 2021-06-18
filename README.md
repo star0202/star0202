@@ -16,5 +16,6 @@
 <h1 align="center">Contact 🔔</h2>
 <b>
   <a href="https://discord.com/users/798690702635827200"><p align="center">Discord</p></a>
+  <a href="https://twitter.com/devstar0202"><p align="center">Twitter</p></a>
   <a href="mailto:devstar0202@gmail.com"><p align="center">Mail</p></a>
 </b>
