@@ -10,6 +10,7 @@
 <b>
   <p align="center">Python</p>
   <p align="center">HTML</p>
+  <p align="center">CSS</p>
   <p align="center">JavaScript</p>
 </b>
 
