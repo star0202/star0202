@@ -13,7 +13,7 @@
   <p align="center">JavaScript</p>
 </b>
 
-<h1 align="center">Contact 🔔</h2>
+<h1 align="center">Contact Me 🔔</h2>
 <b>
   <a href="https://discord.com/users/798690702635827200"><p align="center">Discord</p></a>
   <a href="https://twitter.com/devstar0202"><p align="center">Twitter</p></a>
