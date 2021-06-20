@@ -11,6 +11,7 @@
   <p align="center">HTML</p>
   <p align="center">CSS</p>
   <p align="center">JavaScript</p>
+  <p align="center">TypeScript</p>
 </b>
 
 <h1 align="center">Contact Me 🔔</h2>
