@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Hello World! 👋</h1>
-  <p align="center">I am student developer star0202!</p>
+  <p align="center">I am student developer <del>and weeb</del>!</p>
 </p>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=star0202&count_private=true&show_icons=true&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=B4BCE0&include_all_commits=true&custom_title=star0202's%20Github%20Stats)
