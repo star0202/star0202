@@ -13,8 +13,8 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Typescript-2D79C7?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/HTML-E96228?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/CSS-2862E9?style=flat-square&logo=CSS&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/HTML-E96228?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/CSS-2862E9?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
 </b>
 
 <h1 align="center">Contact Me 🔔</h2>
