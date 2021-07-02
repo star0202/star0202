@@ -7,6 +7,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=star0202&&layout=compact&langs_count=10&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=B4BCE0)](https://github.com/star0202?tab=repositories)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=star0202_dev)](https://solved.ac/star0202_dev)
+<br>
+<br>
 <h1 align="center">Available Languages 🛠</h2>
 <b>
 <p align="center">
@@ -16,6 +18,8 @@
 <img src="https://img.shields.io/badge/HTML-E96228?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/CSS-2862E9?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
 </b>
+<br>
+<br>
 
 <h1 align="center">Contact Me 🔔</h2>
 <b>
@@ -30,7 +34,6 @@
 
 </b>
 
-<br>
 <br>
 <br>
 
