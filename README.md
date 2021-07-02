@@ -9,11 +9,12 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=star0202_dev)](https://solved.ac/star0202_dev)
 <h1 align="center">Available Languages 🛠</h2>
 <b>
-  <p align="center">Python</p>
-  <p align="center">HTML</p>
-  <p align="center">CSS</p>
-  <p align="center">JavaScript</p>
-  <p align="center">TypeScript</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Typescript-2D79C7?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/HTML-E96228?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/CSS-2862E9?style=flat-square&logo=CSS&logoColor=white"/></a>&nbsp 
 </b>
 
 <h1 align="center">Contact Me 🔔</h2>
