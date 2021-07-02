@@ -11,11 +11,11 @@
 <h1 align="center">Available Languages 🛠</h1>
 <b>
   <p align="center">
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Typescript-2D79C7?style=flat-square&logo=Typescript&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/HTML-E96228?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/CSS-2862E9?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">&nbsp
+    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white">&nbsp
+    <img src="https://img.shields.io/badge/Typescript-2D79C7?style=flat-square&logo=Typescript&logoColor=white">&nbsp
+    <img src="https://img.shields.io/badge/HTML-E96228?style=flat-square&logo=HTML5&logoColor=white">&nbsp
+    <img src="https://img.shields.io/badge/CSS-2862E9?style=flat-square&logo=CSS3&logoColor=white">&nbsp
   </p>
 </b>
 <br>
