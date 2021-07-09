@@ -5,7 +5,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=star0202&count_private=true&show_icons=true&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=B4BCE0&include_all_commits=true&custom_title=star0202's%20Github%20Stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=star0202&&layout=compact&langs_count=10&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=B4BCE0)](https://github.com/star0202?tab=repositories)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=star0202_dev)](https://solved.ac/star0202_dev)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devstar)](https://solved.ac/devstar)
 <br>
 <br>
 <h1 align="center">Available Languages 🛠</h1>
