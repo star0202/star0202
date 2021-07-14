@@ -1,11 +1,24 @@
 <p align="center">
-  <h1 align="center">Hello World! 👋| About me</h1>
-  <p align="center">I am student developer <del>and weeb</del>!</p>
+  <h1 align="center">Hello World! 👋</h1>
+  <b><p align="center">I am student developer <del>and weeb</del>!</p></b>
 </p>
+<br>
+<h1 align="center">Stats</h1>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=star0202&count_private=true&show_icons=true&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=B4BCE0&include_all_commits=true&custom_title=star0202's%20Github%20Stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=star0202&&layout=compact&langs_count=10&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=B4BCE0)](https://github.com/star0202?tab=repositories)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devstar)](https://solved.ac/devstar)
+<h1 align="center">School</h1>
+
+
+- Seoul Yangjeon Elementary School(2016/3/1 ~ Now)
+<h1 align="center">Contest / Activities</h1>
+
+- Kage 영재교육(2015)
+- 한생연 과학교육(2015~2016)
+- Start [Scratch](https://scratch.mit.edu/users/star0202/)(2018/2)
+- KAIST 사이버 영재교육 2개 이수(2020/3/30~2020/6/21, 2020/5/22~2020/6/29)
+- Codemonkey korea championship(2020)
 <br>
 <br>
 <h1 align="center">Available Languages 🛠</h1>
@@ -18,8 +31,6 @@
     <img src="https://img.shields.io/badge/CSS-2862E9?style=flat-square&logo=CSS3&logoColor=white">&nbsp
   </p>
 </b>
-<br>
-<br>
 <h1 align="center">Contact Me 🔔</h2>
 <b>
   <p align="center">
@@ -30,9 +41,7 @@
   <a href="https://discord.com/users/798690702635827200"><p align="center">Discord</p></a>
   <a href="https://twitter.com/devstar0202"><p align="center">Twitter</p></a>
 </p>
-
 </b>
-
 <br>
 <br>
 
