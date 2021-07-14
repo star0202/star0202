@@ -17,14 +17,16 @@
 - Start [Scratch](https://scratch.mit.edu/users/star0202/)(2018/2)
 - [KAIST 사이버 영재교육](https://talented.kaist.ac.kr:8443/) 2개 이수(2020/3/30\~2020/6/21, 2020/5/22\~2020/6/29)
 - [Codemonkey](https://www.codemonkey.com/) korea championship(2020)
-<h1 align="center">🛠 Available Languages</h1>
+<h1 align="center">🛠 Technology</h1>
 <b>
   <p align="center">
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">&nbsp
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white">&nbsp
     <img src="https://img.shields.io/badge/Typescript-2D79C7?style=flat-square&logo=Typescript&logoColor=white">&nbsp
     <img src="https://img.shields.io/badge/HTML-E96228?style=flat-square&logo=HTML5&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/CSS-2862E9?style=flat-square&logo=CSS3&logoColor=white">&nbsp
+    <img src="https://img.shields.io/badge/CSS-2862E9?style=flat-square&logo=CSS3&logoColor=white">&nbsp<br>
+    Video editing<br>
+    Piano<br>
   </p>
 </b>
 <h1 align="center">🔔 Contact Me</h2>
