@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello World!</h1>
  
-- ✨I'm student developer ~~and weeb~~!
-- 💜I’m interested in programming, composition, and space.
+- ✨ I'm student developer ~~and weeb~~!
+- 💜 I’m interested in programming, composition, and space.
 <h1 align="center">📊 Stats</h1>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=star0202&count_private=true&show_icons=true&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=B4BCE0&include_all_commits=true&custom_title=star0202's%20Github%20Stats)
@@ -17,8 +17,6 @@
 - Start [Scratch](https://scratch.mit.edu/users/star0202/)(2018/2)
 - [KAIST 사이버 영재교육](https://talented.kaist.ac.kr:8443/) 2개 이수(2020/3/30~2020/6/21, 2020/5/22~2020/6/29)
 - [Codemonkey](https://www.codemonkey.com/) korea championship(2020)
-<br>
-<br>
 <h1 align="center">🛠 Available Languages</h1>
 <b>
   <p align="center">
