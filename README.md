@@ -16,7 +16,7 @@
 - [한생연](http://www.hlsi.co.kr/main/main.php) 과학교육(2016~2017)
 - Start [Scratch](https://scratch.mit.edu/users/star0202/)(2018/2)
 - [KAIST 사이버 영재교육](https://talented.kaist.ac.kr:8443/) 2개 이수(2020/3/30\~2020/6/21, 2020/5/22\~2020/6/29)
-- [Codemonkey](https://www.codemonkey.com/) korea championship(2020)
+- [Codemonkey](https://www.codemonkey.com/) korea championship(2020/8/15)
 <h1 align="center">🛠 Technology</h1>
 <b>
   <p align="center">
