@@ -23,7 +23,7 @@
 - Start Programming(2018/2)
   - Start [Scratch](https://scratch.mit.edu/users/star0202/)(2018/2)
   - Start Lego EV3(2018)
-  - Start python(2019)
+  - Start Python(2019)
   - Learn Linux/Unix(2020)
   - [Codemonkey](https://www.codemonkey.com/) korea championship(2020/8/15)
   - Start GitHub(2021/2/13)
