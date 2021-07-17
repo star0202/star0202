@@ -2,6 +2,7 @@
  
 - ✨ I'm student developer ~~and weeb~~!
 - 💜 I’m interested in programming, composition, and space.
+- MBTI : INTP
 <h1 align="center">📊 Stats</h1>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=star0202&count_private=true&show_icons=true&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=B4BCE0&include_all_commits=true&custom_title=star0202's%20Github%20Stats)
@@ -12,11 +13,22 @@
 - [Seoul Yangjeon Elementary School](http://yangjeon.sen.es.kr/index.do)(2016/3/1 ~ Now)
 <h1 align="center">💻 Contest / Activities</h1>
 
-- [Kage](http://www.kage.co.kr/) 영재교육(2014)
-- [한생연](http://www.hlsi.co.kr/main/main.php) 과학교육(2016~2017)
-- Start [Scratch](https://scratch.mit.edu/users/star0202/)(2018/2)
-- [KAIST 사이버 영재교육](https://talented.kaist.ac.kr:8443/) 2개 이수(2020/3/30\~2020/6/21, 2020/5/22\~2020/6/29)
-- [Codemonkey](https://www.codemonkey.com/) korea championship(2020/8/15)
+- Born in Gangnam-gu, Seoul, Republic of Korea(2009/2/2)
+- Using a computer for the first time(2011)
+- 영재교육(2014~2020/6/29)
+  - [Kage](http://www.kage.co.kr/) 영재교육(2014)
+  - [한생연](http://www.hlsi.co.kr/main/main.php) 과학교육(2016~2017)
+  - [KAIST 사이버 영재교육](https://talented.kaist.ac.kr:8443/) 2개 이수(2020/3/30\~2020/6/21, 2020/5/22\~2020/6/29)
+- Start Piano(2015)
+- Start Programming(2018/2)
+  - Start [Scratch](https://scratch.mit.edu/users/star0202/)(2018/2)
+  - Start Lego EV3(2018)
+  - Start python(2019)
+  - Learn Linux/Unix(2020)
+  - [Codemonkey](https://www.codemonkey.com/) korea championship(2020/8/15)
+  - Start GitHub(2021/2/13)
+  - Start [Baekjoon](https://solved.ac/devstar), [CodeForce](https://codeforces.com/profile/star0202_dev), [AtCoder](https://atcoder.jp/users/star0202_dev)(~~I put my birthday in 1997~~)
+  - Start HTML, JS, TS, CSS(2021)
 <h1 align="center">🛠 Technology</h1>
 <b>
   <p align="center">
