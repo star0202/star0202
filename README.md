@@ -2,7 +2,7 @@
  
 - ✨ I'm student developer ~~and weeb~~!
 - 💜 I’m interested in programming, composition, and space.
-- MBTI : INTP
+- 🎉 MBTI : INTP
 <h1 align="center">📊 Stats</h1>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=star0202&count_private=true&show_icons=true&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=E8D5D3&include_all_commits=true&custom_title=star0202's%20Github%20Stats)
@@ -28,7 +28,7 @@
   - Start GitHub(2020/3/10)
   - Learn Linux/Unix(2020)
   - [Codemonkey](https://www.codemonkey.com/) korea championship(2020/8/15)
-  - Start [Baekjoon](https://solved.ac/devstar), [CodeForce](https://codeforces.com/profile/star0202_dev), [AtCoder](https://atcoder.jp/users/star0202_dev)(~~I put my birthday 1997~~)
+  - Start [Baekjoon](https://solved.ac/devstar), [CodeForce](https://codeforces.com/profile/star0202_dev), [AtCoder](https://atcoder.jp/users/star0202_dev)~~(I put my birthday 1997)~~
   - Start HTML, JS, TS, CSS(2021)
 <h1 align="center">🛠 Technology</h1>
 <b>
