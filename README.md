@@ -24,9 +24,9 @@
   - Start [Scratch](https://scratch.mit.edu/users/star0202/)(2018/2)
   - Start Lego EV3(2018)
   - Start Python(2019)
+  - Start GitHub(2020/3/10)
   - Learn Linux/Unix(2020)
   - [Codemonkey](https://www.codemonkey.com/) korea championship(2020/8/15)
-  - Start GitHub(2021/2/13)
   - Start [Baekjoon](https://solved.ac/devstar), [CodeForce](https://codeforces.com/profile/star0202_dev), [AtCoder](https://atcoder.jp/users/star0202_dev)(~~I put my birthday 1997~~)
   - Start HTML, JS, TS, CSS(2021)
 <h1 align="center">🛠 Technology</h1>
