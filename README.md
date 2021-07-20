@@ -3,6 +3,11 @@
 - ✨ I'm student developer ~~and weeb~~!
 - 💜 I’m interested in programming, composition, and space.
 - 🎉 MBTI : INTP
+- I'm owner of @yjdevs.
+- I'm friend of @mvp-11235.
+- I'm son of @hqueue.
+- Admin of @coding-1ab discord server.
+- Member of @Team-Accu.
 <h1 align="center">📊 Stats</h1>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=star0202&count_private=true&show_icons=true&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=E8D5D3&include_all_commits=true&custom_title=star0202's%20Github%20Stats)
