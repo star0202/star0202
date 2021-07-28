@@ -56,6 +56,7 @@
 </p>
   <a href="https://discord.com/users/798690702635827200"><p align="center">Discord</p></a>
   <a href="https://twitter.com/devstar0202"><p align="center">Twitter</p></a>
+  <a href="https://open.kakao.com/o/slDYKIqd"><p align="center">KakaoTalk</p></a>
 </p>
 </b>
 <br>
