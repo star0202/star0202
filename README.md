@@ -49,14 +49,12 @@
 </b>
 <h1 align="center">🔔 Contact Me</h2>
 <b>
-  <p align="center">
-    <a href="mailto:devstar0202@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/devstar0202@gmail.com-444444?style=flat-square&logo=Gmail&logoColor=white"
-/></a>
-</p>
-  <a href="https://discord.com/users/798690702635827200"><p align="center">Discord</p></a>
-  <a href="https://twitter.com/devstar0202"><p align="center">Twitter</p></a>
-  <a href="https://open.kakao.com/o/slDYKIqd"><p align="center">KakaoTalk</p></a>
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/devstar0202)](https://twitter.com/devstar0202)
+[![Instagram](https://img.shields.io/badge/-Instagram-DB2973?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/star0202_dev/)](https://www.instagram.com/star0202_dev)
+[![Gmail Badge](https://img.shields.io/badge/-devstar0202@gmail.com-0EB493?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devstar0202@gmail.com)](mailto:devstar0202@gmail.com)
+  <a href="https://discord.com/users/798690702635827200">Discord</a>
+  <a href="https://open.kakao.com/o/slDYKIqd">KakaoTalk</a>
 </p>
 </b>
 <br>
