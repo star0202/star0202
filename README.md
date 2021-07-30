@@ -42,9 +42,7 @@
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white">&nbsp
     <img src="https://img.shields.io/badge/Typescript-2D79C7?style=flat-square&logo=Typescript&logoColor=white">&nbsp
     <img src="https://img.shields.io/badge/HTML-E96228?style=flat-square&logo=HTML5&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/CSS-2862E9?style=flat-square&logo=CSS3&logoColor=white">&nbsp<br><br>
-    Video editing<br><br>
-    Piano<br>
+    <img src="https://img.shields.io/badge/CSS-2862E9?style=flat-square&logo=CSS3&logoColor=white">&nbsp<br>
   </p>
 </b>
 <h1 align="center">🔔 Contact Me</h2>
@@ -53,9 +51,9 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/devstar0202)](https://twitter.com/devstar0202)
 [![Instagram](https://img.shields.io/badge/-Instagram-DB2973?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/star0202_dev/)](https://www.instagram.com/star0202_dev)
 [![Gmail Badge](https://img.shields.io/badge/-devstar0202@gmail.com-0EB493?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devstar0202@gmail.com)](mailto:devstar0202@gmail.com)
+</p>
   <a href="https://discord.com/users/798690702635827200">Discord</a>
   <a href="https://open.kakao.com/o/slDYKIqd">KakaoTalk</a>
-</p>
 </b>
 <br>
 <br>
