@@ -53,8 +53,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-DB2973?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/star0202_dev/)](https://www.instagram.com/star0202_dev)
 [![Gmail Badge](https://img.shields.io/badge/-devstar0202@gmail.com-0EB493?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devstar0202@gmail.com)](mailto:devstar0202@gmail.com)
 </p>
-  <a href="https://discord.com/users/798690702635827200">Discord</a>
-  <a href="https://open.kakao.com/o/slDYKIqd">KakaoTalk</a>
+
+[![Discord](https://discord.c99.nl/widget/theme-4/798690702635827200.png)](http://discord.com/users/798690702635827200)
 </b>
 <br>
 <br>
