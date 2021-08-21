@@ -10,7 +10,7 @@
 - Member of [Team-Accu](https://github.com/Team-Accu).
 <h1 align="center">📊 Stats</h1>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=star0202&count_private=true&show_icons=true&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=E8D5D3&include_all_commits=true&custom_title=star0202's%20Github%20Stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=star0202&count_private=true&show_icons=true&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=E8D5D3&include_all_commits=true&custom_title=star0202's%20Github%20Stats)](https://github.com/star0202)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=star0202&&layout=compact&langs_count=10&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=E8D5D3)](https://github.com/star0202?tab=repositories)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devstar)](https://solved.ac/devstar)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=star0202&theme=nightowl&background=FFFFFF00&hide_border=true&ring=E8D5D3&fire=E34C26&sideNums=E8D5D3&sideLabels=E8D5D3)](https://git.io/streak-stats)
