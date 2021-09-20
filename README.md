@@ -16,10 +16,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=star0202&theme=nightowl&background=FFFFFF00&hide_border=true&ring=E8D5D3&fire=E34C26&sideNums=E8D5D3&sideLabels=E8D5D3)](https://git.io/streak-stats)
 <h1 align="center">🏫 School</h1>
 
-- [Seoul Yangjeon Elementary School](http://yangjeon.sen.es.kr/index.do)(2016/3/1 ~ Now)
 <h1 align="center">💻 Contest / Activities</h1>
 
-- Born in Gangnam-gu, Seoul, Republic of Korea(2009/2/2)
 - Using a computer for the first time(2011)
 - 영재교육(2014~2020/6/29)
   - [Kage](http://www.kage.co.kr/) 영재교육(2014)
