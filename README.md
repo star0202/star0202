@@ -3,7 +3,6 @@
 - ✨ I'm student developer ~~and weeb~~!
 - 💜 I’m interested in programming, composition, and space.
 - 🎉 MBTI : INTP
-- I'm owner of [YJ-Developers](https://github.com/yjdevs)
 - I'm friend of [mvp-11235_dev](https://github.com/mvp-11235)
 - I'm son of [Hqueue](https://github.com/hqueue)
 - Admin of [Coding Lab](https://github.com/coding-1ab) discord server
