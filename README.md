@@ -3,10 +3,12 @@
 - ✨ I'm student developer ~~and weeb~~!
 - 💜 I’m interested in programming, composition, and space.
 - 🎉 MBTI : INTP
-- I'm friend of [mvp-11235_dev](https://github.com/mvp-11235)
-- I'm son of [Hqueue](https://github.com/hqueue)
-- Admin of [Coding Lab](https://github.com/coding-1ab) discord server
+- Friend of [mvp-11235_dev](https://github.com/mvp-11235)
+- Son of [Hqueue](https://github.com/hqueue)
+- Admin of [Coding Lab](https://github.com/coding-1ab), lab10.live discord server
+- Owner of Team KSWG
 - Member of [Team-Accu](https://github.com/Team-Accu), [Studio Orora](https://github.com/Studio-Orora), [Team White](https://github.com/dev-White-team)
+- Resource Team of [Cube Connect](https://github.com/cube-connects/)
 <h1 align="center">📊 Stats</h1>
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=star0202&count_private=true&show_icons=true&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=E8D5D3&include_all_commits=true&custom_title=star0202's%20Github%20Stats)](https://github.com/star0202)
