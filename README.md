@@ -51,7 +51,7 @@
 <b>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/devstar0202)](https://twitter.com/devstar0202)
-[![Instagram](https://img.shields.io/badge/-Instagram-DB2973?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/star0202_dev/)](https://www.instagram.com/star0202_dev)
+[![Instagram](https://img.shields.io/badge/-Instagram-DB2973?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/stardev.uwu/)](https://www.instagram.com/star0202_dev)
 [![Gmail Badge](https://img.shields.io/badge/-stardev.uwu@gmail.com-0EB493?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stardev.uwu@gmail.com)](mailto:stardev.uwu@gmail.com)
 </p>
 
