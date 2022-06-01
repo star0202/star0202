@@ -15,7 +15,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=star0202&&layout=compact&langs_count=10&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=E8D5D3)](https://github.com/star0202?tab=repositories)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Starcea)](https://solved.ac/Starcea)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=star0202&theme=nightowl&background=FFFFFF00&hide_border=true&ring=E8D5D3&fire=E34C26&sideNums=E8D5D3&sideLabels=E8D5D3)](https://git.io/streak-stats)
-<h1 align="center">🏫 School</h1>
 
 <h1 align="center">💻 Contest / Activities</h1>
 
