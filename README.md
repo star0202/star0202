@@ -32,8 +32,8 @@
   - Start GitHub(2020/3/10)
   - Learn Linux/Unix(2020)
   - [Codemonkey](https://www.codemonkey.com/) korea championship(2020/8/15)
-  - Start [Baekjoon](https://solved.ac/devstar), [CodeForce](https://codeforces.com/profile/star0202_dev), [AtCoder](https://atcoder.jp/users/star0202_dev)~~(I put my birthday 1997)~~
   - Start HTML, JS, TS, CSS(2021)
+  - Start [Baekjoon](https://solved.ac/starcea)
 <h1 align="center">🛠 Technology</h1>
 <b>
   <p align="center">
