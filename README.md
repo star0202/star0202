@@ -54,7 +54,6 @@
 </p>
 
 [![Discord](https://discord.c99.nl/widget/theme-4/798690702635827200.png)](http://discord.com/users/798690702635827200)
-</b><br>
-always offline lol
+</b><br><br>
 
 > with help from [Abiria❤](https://github.com/abiriadev)
