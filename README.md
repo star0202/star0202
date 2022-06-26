@@ -4,7 +4,6 @@
 - 💜 I’m interested in programming, composition, and space.
 - 🎉 MBTI : INTP
 - Friend of [mvp-11235_dev](https://github.com/mvp-11235)
-- Son of [Hqueue](https://github.com/hqueue)
 - Admin of [Coding Lab](https://github.com/coding-1ab), lab10.live discord server
 - Owner of Team KSWG
 - Member of [Team-Accu](https://github.com/Team-Accu), [Studio Orora](https://github.com/Studio-Orora), [Team White](https://github.com/dev-White-team)
