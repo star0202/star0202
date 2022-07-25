@@ -1847,7 +1847,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 591k out of 94m users</span>
+                                    <span class="gh">ranked 592k out of 94m users</span>
                                 </div>
                                 <div class="text">Followed by 16 users</div>
                             </div>
@@ -2023,7 +2023,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2022, 21:12:34 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 25 Jul 2022, 22:31:31 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
