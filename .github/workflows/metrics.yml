@@ -62,6 +62,12 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_sections: repositories, history
+          plugin_lines_skipped: ManageBot, LiveChat, star0202.github.io, FirstDjsBot
+          plugin_licenses: yes
+          plugin_licenses_legal: yes
+          plugin_licenses_ratio: yes
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
