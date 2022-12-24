@@ -128,4 +128,4 @@
  
 </details>
 
-![Metrics](/github-metrics.svg)
+[![Metrics](/github-metrics.svg)](https://github.com/lowlighter/metrics)
