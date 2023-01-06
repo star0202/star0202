@@ -132,6 +132,8 @@ Hi! I'm Student Full Stack Developer Starcea(or star0202_dev)
 
 I mainly use Python, but I am also interested in TypeScript and Java!
 
+I also like discrete math and physics and chemistry(btw I hate biology..)
+
 ## Gifted Educations
 Kage Gifted Education(2014) - K-WPPSI: 142
 
