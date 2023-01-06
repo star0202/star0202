@@ -127,8 +127,13 @@
  
 </details>
 
+# About Me
+Hi! I'm Student Full Stack Developer Starcea(or star0202_dev)
+
+I mainly use Python, but I am also interested in TypeScript and Java!
+
 ## Gifted Educations
-Kage Gifted Education(2014)
+Kage Gifted Education(2014) - K-WPPSI: 142
 
 KAIST Cyber Gifted Education\*2(2020)
 
