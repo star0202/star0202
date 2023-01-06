@@ -127,9 +127,12 @@
  
 </details>
 
-[![Metrics](/github-metrics.svg)](https://github.com/lowlighter/metrics)]
-
 ## Gifted Educations
 Kage Gifted Education(2014)
+
 KAIST Cyber Gifted Education\*2(2020)
+
 SNU Science Gifted Education - Computer Science(2023)
+
+
+[![Metrics](/github-metrics.svg)](https://github.com/lowlighter/metrics)
