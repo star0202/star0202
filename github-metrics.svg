@@ -506,7 +506,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 29 commits)</small>
+                    <small class="h-details">(computed from last 28 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -531,9 +531,9 @@
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,111.25C36.304,115.833,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,119.271,200.217,111.25C206.522,103.229,212.826,15,219.13,15C225.435,15,231.739,66.562,238.043,83.75C244.348,100.937,250.652,125,256.957,125C263.261,125,269.565,118.583,275.87,111.25C282.174,103.917,288.478,56.25,294.783,56.25C301.087,56.25,307.391,97.5,313.696,97.5C320,97.5,326.304,70,332.609,70C338.913,70,345.217,111.25,351.522,111.25C357.826,111.25,364.13,97.5,370.435,97.5C376.739,97.5,383.043,125,389.348,125C395.652,125,401.957,125,408.261,125C414.565,125,420.87,125,427.174,125C433.478,125,439.783,111.25,446.087,111.25C452.391,111.25,458.696,120.417,465,125L465,125Z" class="ct-area"/>
-                                        <path d="M30,111.25C36.304,115.833,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,119.271,200.217,111.25C206.522,103.229,212.826,15,219.13,15C225.435,15,231.739,66.562,238.043,83.75C244.348,100.937,250.652,125,256.957,125C263.261,125,269.565,118.583,275.87,111.25C282.174,103.917,288.478,56.25,294.783,56.25C301.087,56.25,307.391,97.5,313.696,97.5C320,97.5,326.304,70,332.609,70C338.913,70,345.217,111.25,351.522,111.25C357.826,111.25,364.13,97.5,370.435,97.5C376.739,97.5,383.043,125,389.348,125C395.652,125,401.957,125,408.261,125C414.565,125,420.87,125,427.174,125C433.478,125,439.783,111.25,446.087,111.25C452.391,111.25,458.696,120.417,465,125" class="ct-line"/>
-                                        <line x1="30" y1="111.25" x2="30.01" y2="111.25" class="ct-point" ct:value="1"/>
+                                        <path d="M30,125L30,125C36.304,125,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,119.271,200.217,111.25C206.522,103.229,212.826,15,219.13,15C225.435,15,231.739,66.562,238.043,83.75C244.348,100.937,250.652,125,256.957,125C263.261,125,269.565,118.583,275.87,111.25C282.174,103.917,288.478,56.25,294.783,56.25C301.087,56.25,307.391,97.5,313.696,97.5C320,97.5,326.304,70,332.609,70C338.913,70,345.217,111.25,351.522,111.25C357.826,111.25,364.13,97.5,370.435,97.5C376.739,97.5,383.043,125,389.348,125C395.652,125,401.957,125,408.261,125C414.565,125,420.87,125,427.174,125C433.478,125,439.783,111.25,446.087,111.25C452.391,111.25,458.696,120.417,465,125L465,125Z" class="ct-area"/>
+                                        <path d="M30,125C36.304,125,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,119.271,200.217,111.25C206.522,103.229,212.826,15,219.13,15C225.435,15,231.739,66.562,238.043,83.75C244.348,100.937,250.652,125,256.957,125C263.261,125,269.565,118.583,275.87,111.25C282.174,103.917,288.478,56.25,294.783,56.25C301.087,56.25,307.391,97.5,313.696,97.5C320,97.5,326.304,70,332.609,70C338.913,70,345.217,111.25,351.522,111.25C357.826,111.25,364.13,97.5,370.435,97.5C376.739,97.5,383.043,125,389.348,125C395.652,125,401.957,125,408.261,125C414.565,125,420.87,125,427.174,125C433.478,125,439.783,111.25,446.087,111.25C452.391,111.25,458.696,120.417,465,125" class="ct-line"/>
+                                        <line x1="30" y1="125" x2="30.01" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="48.913043478260875" y1="125" x2="48.92304347826087" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="67.82608695652175" y1="125" x2="67.83608695652175" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="86.73913043478261" y1="125" x2="86.74913043478261" y2="125" class="ct-point" ct:value="0"/>
@@ -557,7 +557,7 @@
                                         <line x1="427.1739130434783" y1="125" x2="427.1839130434783" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="446.0869565217392" y1="111.25" x2="446.0969565217392" y2="111.25" class="ct-point" ct:value="1"/>
                                         <line x1="465.00000000000006" y1="125" x2="465.01000000000005" y2="125" class="ct-point" ct:value="0"/>
-                                    <text x="30" y="106.25" class="ct-post">1</text><text x="200.21739130434784" y="106.25" class="ct-post">1</text><text x="219.13043478260872" y="10" class="ct-post">8</text><text x="238.0434782608696" y="78.75" class="ct-post">3</text><text x="275.8695652173913" y="106.25" class="ct-post">1</text><text x="294.7826086956522" y="51.25" class="ct-post">5</text><text x="313.69565217391306" y="92.5" class="ct-post">2</text><text x="332.60869565217394" y="65" class="ct-post">4</text><text x="351.5217391304348" y="106.25" class="ct-post">1</text><text x="370.4347826086957" y="92.5" class="ct-post">2</text><text x="446.0869565217392" y="106.25" class="ct-post">1</text></g>
+                                    <text x="200.21739130434784" y="106.25" class="ct-post">1</text><text x="219.13043478260872" y="10" class="ct-post">8</text><text x="238.0434782608696" y="78.75" class="ct-post">3</text><text x="275.8695652173913" y="106.25" class="ct-post">1</text><text x="294.7826086956522" y="51.25" class="ct-post">5</text><text x="313.69565217391306" y="92.5" class="ct-post">2</text><text x="332.60869565217394" y="65" class="ct-post">4</text><text x="351.5217391304348" y="106.25" class="ct-post">1</text><text x="370.4347826086957" y="92.5" class="ct-post">2</text><text x="446.0869565217392" y="106.25" class="ct-post">1</text></g>
                                 </g>
                                 <g class="ct-labels">
                                     <text x="30" y="145" width="18.91304347826087" height="20" class="ct-label ct-horizontal ct-end">0</text>
@@ -607,16 +607,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,125C39.5,117.667,49,103,58.5,103C68,103,77.5,125,87,125C96.5,125,106,31.5,115.5,31.5C125,31.5,134.5,114,144,114C153.5,114,163,92,172.5,92C182,92,191.5,114,201,125L201,125Z" class="ct-area"/>
-                                            <path d="M30,125C39.5,117.667,49,103,58.5,103C68,103,77.5,125,87,125C96.5,125,106,31.5,115.5,31.5C125,31.5,134.5,114,144,114C153.5,114,163,92,172.5,92C182,92,191.5,114,201,125" class="ct-line"/>
+                                            <path d="M30,125L30,125C39.5,119.5,49,108.5,58.5,108.5C68,108.5,77.5,125,87,125C96.5,125,106,31.5,115.5,31.5C125,31.5,134.5,114,144,114C153.5,114,163,92,172.5,92C182,92,191.5,114,201,125L201,125Z" class="ct-area"/>
+                                            <path d="M30,125C39.5,119.5,49,108.5,58.5,108.5C68,108.5,77.5,125,87,125C96.5,125,106,31.5,115.5,31.5C125,31.5,134.5,114,144,114C153.5,114,163,92,172.5,92C182,92,191.5,114,201,125" class="ct-line"/>
                                             <line x1="30" y1="125" x2="30.01" y2="125" class="ct-point" ct:value="0"/>
-                                            <line x1="58.5" y1="103" x2="58.51" y2="103" class="ct-point" ct:value="4"/>
+                                            <line x1="58.5" y1="108.5" x2="58.51" y2="108.5" class="ct-point" ct:value="3"/>
                                             <line x1="87" y1="125" x2="87.01" y2="125" class="ct-point" ct:value="0"/>
                                             <line x1="115.5" y1="31.5" x2="115.51" y2="31.5" class="ct-point" ct:value="17"/>
                                             <line x1="144" y1="114" x2="144.01" y2="114" class="ct-point" ct:value="2"/>
                                             <line x1="172.5" y1="92" x2="172.51" y2="92" class="ct-point" ct:value="6"/>
                                             <line x1="201" y1="125" x2="201.01" y2="125" class="ct-point" ct:value="0"/>
-                                        <text x="58.5" y="98" class="ct-post">4</text><text x="115.5" y="26.5" class="ct-post">17</text><text x="144" y="109" class="ct-post">2</text><text x="172.5" y="87" class="ct-post">6</text></g>
+                                        <text x="58.5" y="103.5" class="ct-post">3</text><text x="115.5" y="26.5" class="ct-post">17</text><text x="144" y="109" class="ct-post">2</text><text x="172.5" y="87" class="ct-post">6</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -1830,7 +1830,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~8 coding hours recorded
+                            ~7 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1872,28 +1872,28 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">minihud</span>
-                                <div class="bar" style="width: 50.536%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">63%</span>
+                                <div class="bar" style="width: 56.976%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">71%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">pycord-template</span>
-                                <div class="bar" style="width: 8.584%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">11%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">decom</span>
-                                <div class="bar" style="width: 8.144%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">10%</span>
+                                <div class="bar" style="width: 9.671999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">12%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">club-discord-bot</span>
-                                <div class="bar" style="width: 5.584%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
+                                <div class="bar" style="width: 6.296%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">ferium</span>
-                                <div class="bar" style="width: 3.944%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <div class="bar" style="width: 4.4479999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">jdms-react</span>
+                                <div class="bar" style="width: 0.9359999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
                             </div>
                         </div>
                     </section>
@@ -1902,28 +1902,28 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Java</span>
-                                <div class="bar" style="width: 50.624%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">63%</span>
+                                <div class="bar" style="width: 48.6%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">61%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 8.312000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">10%</span>
+                                <div class="bar" style="width: 9.376000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">12%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Text</span>
-                                <div class="bar" style="width: 5.608%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Properties</span>
-                                <div class="bar" style="width: 3.464%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 6%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Rust</span>
-                                <div class="bar" style="width: 3.3600000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 3.7840000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Properties</span>
+                                <div class="bar" style="width: 3.6399999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                         </div>
                     </section>
@@ -2512,7 +2512,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jan 2023, 00:03:25 (timezone Asia/Seoul) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 9 Jan 2023, 01:06:11 (timezone Asia/Seoul) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
