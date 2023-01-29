@@ -12,6 +12,8 @@ KAIST Cyber Gifted Education\*2(2020)
 
 SNU Science Gifted Education - Computer Science(2023)
 
+
+### Stats (Optimized with Dark Theme)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=star0202&show_icons=true&theme=transparent&layout=compact&hide_border=true&title_color=E8D5D3&text_color=7edac9)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=star0202&show_icons=true&theme=transparent&hide_border=true&ring_color=E8D5D3&title_color=E8D5D3&icon_color=E34C26&text_color=7edac9)
 
