@@ -14,7 +14,7 @@ SNU Science Gifted Education - Computer Science(2023)
 
 
 ### Stats (Optimized with Dark Theme)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=star0202&show_icons=true&theme=transparent&layout=compact&hide_border=true&title_color=E8D5D3&text_color=7edac9)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=star0202&show_icons=true&theme=transparent&hide_border=true&ring_color=E8D5D3&title_color=E8D5D3&icon_color=E34C26&text_color=7edac9)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=star0202&show_icons=true&theme=transparent&layout=compact&hide_border=true&title_color=E8D5D3&text_color=7edac9)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=star0202&show_icons=true&theme=transparent&hide_border=true&ring_color=E8D5D3&title_color=E8D5D3&icon_color=E34C26&text_color=7edac9)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=star0202&theme=nightowl&background=FFFFFF00&hide_border=true&ring=E8D5D3&fire=E34C26&sideNums=E8D5D3&sideLabels=E8D5D3)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=star0202&theme=nightowl&background=FFFFFF00&hide_border=true&ring=E8D5D3&fire=E34C26&sideNums=E8D5D3&sideLabels=E8D5D3)](https://github.com/DenverCoder1/github-readme-streak-stats)
