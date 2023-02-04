@@ -7,17 +7,21 @@ I also like discrete math, physics and chemistry (btw I hate biology..)
 
 ## Working at
 - Coding Lab Senior Administrator (2021~)
+
 - Team Accu Developer (2021~)
+
 - Studio Orora Developer (2021~)
+
 - Team White Senior Developer, PR Reviewer (2022~)
+
 - Nanocraft Technical Member(2022), SMP Member (2023~)
 
 ## Gifted Educations
-Kage Gifted Education(2014) - K-WPPSI: 142
+- Kage Gifted Education(2014) - K-WPPSI: 142
 
-KAIST Cyber Gifted Education\*2(2020)
+- KAIST Cyber Gifted Education\*2(2020)
 
-SNU Science Gifted Education - Computer Science(2023)
+- SNU Science Gifted Education - Computer Science(2023)
 
 
 ### Stats (Optimized with Dark Theme)
