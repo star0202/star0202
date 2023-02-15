@@ -14,8 +14,7 @@ I also like discrete math, physics and chemistry (btw I hate biology..)
 
 ## Projects in Progress
 - [Pycord Template](https://github.com/star0202/pycord-template) - Personal Pycord Template
-- [Rena Reverse](https://github.com/star0202/Rena-Reverse) -  Reverse Engineered version of Team Crescendo 'Rena'
-- [Neispy(Fork)](https://github.com/star0202/neispy) - Fork of [SaidBySolo's Neispy](https://github.com/SaidBySolo/neispy)
+- **STUDY**
 
 ## Gifted Educations
 - Kage Gifted Education(2014) - K-WPPSI: 142
