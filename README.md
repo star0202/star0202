@@ -27,6 +27,7 @@ I also like discrete math, physics and chemistry (btw I hate biology..)
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=star0202&show_icons=true&theme=transparent&hide_border=true&ring_color=E8D5D3&title_color=E8D5D3&icon_color=E34C26&text_color=7edac9)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=star0202&theme=nightowl&background=FFFFFF00&hide_border=true&ring=E8D5D3&fire=E34C26&sideNums=E8D5D3&sideLabels=E8D5D3)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Starcea)](https://solved.ac/Starcea)
 
 ## Contacts
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/798690702635827200)
