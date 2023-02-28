@@ -23,8 +23,8 @@ I also like discrete math, physics and chemistry (btw I hate biology..)
 
 
 ## Stats (Optimized with Dark Theme)
-[![Top Langs](https://github-readme-stats-three-rosy.vercel.app/api/top-langs?username=star0202&langs_count=10&show_icons=true&theme=transparent&layout=compact&hide_border=true&title_color=E8D5D3&text_color=7edac9)](https://github.com/anuraghazra/github-readme-stats)
-[![Github Stats](https://github-readme-stats-three-rosy.vercel.app/api?username=star0202&show_icons=true&theme=transparent&hide_border=true&ring_color=E8D5D3&title_color=E8D5D3&icon_color=E34C26&text_color=7edac9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=star0202&langs_count=10&show_icons=true&theme=transparent&layout=compact&hide_border=true&title_color=E8D5D3&text_color=7edac9)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=star0202&show_icons=true&theme=transparent&hide_border=true&ring_color=E8D5D3&title_color=E8D5D3&icon_color=E34C26&text_color=7edac9)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=star0202&theme=nightowl&background=FFFFFF00&hide_border=true&ring=E8D5D3&fire=E34C26&sideNums=E8D5D3&sideLabels=E8D5D3)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Starcea)](https://solved.ac/Starcea)
