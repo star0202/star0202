@@ -13,7 +13,6 @@ I also like discrete math, physics and chemistry (btw I hate biology..)
 - Nanocraft Technical Member(2022), SMP Member (2023~)
 
 ## Projects in Progress
-- [Pycord Template](https://github.com/star0202/pycord-template) - Personal Pycord Template
 - **STUDY**
 
 ## Gifted Educations
