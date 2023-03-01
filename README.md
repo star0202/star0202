@@ -1,7 +1,7 @@
 # About Me
 Hi! I'm Student Developer Starcea(or star0202_dev)
 
-I mainly use Python, but I am also interested in TypeScript and Java!
+I mainly use Python, but I am also interested in TypeScript, C++ and Java!
 
 I also like discrete math, physics and chemistry (btw I hate biology..)
 
