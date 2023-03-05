@@ -8,7 +8,7 @@ I also like discrete math, physics and chemistry (btw I hate biology..)
 ## Working at
 - Coding Lab Senior Administrator (2021~)
 - Team Accu Developer (2021~2023)
-- Studio Orora Developer (2021~)
+- Studio Orora Developer (2021~2023)
 - Team White Senior Developer, PR Reviewer (2022~2023)
 - Nanocraft Technical Member(2022), SMP Member (2023~)
 - Team Crescendo Developer (2023~)
