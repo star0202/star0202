@@ -11,6 +11,7 @@ I also like discrete math, physics and chemistry (btw I hate biology..)
 - Studio Orora Developer (2021~)
 - Team White Senior Developer, PR Reviewer (2022~)
 - Nanocraft Technical Member(2022), SMP Member (2023~)
+- Team Crescendo Developer (2023~)
 
 ## Projects in Progress
 - **STUDY**
