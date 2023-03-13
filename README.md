@@ -36,3 +36,4 @@ I also like discrete math, physics and chemistry (btw I hate biology..)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stardev.uwu@gmail.com)
 
 ❤️ [@pikokr](https://github.com/pikokr) [@SeodanLee](https://github.com/SeodanLee) [@qwreey75](https://github.com/qwreey75)
+
