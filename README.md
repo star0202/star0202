@@ -1,5 +1,5 @@
 # About Me
-Hi! I'm Student Developer Starcea(or star0202_dev)
+Hi! I'm Student Developer Starcea(or star0202_dev) [Portfolio(한국어)](https://starcea.notion.site/16f52386b2484925ae01bccab995b601)
 
 I mainly use Python, but I am also interested in TypeScript, C++ and Java!
 
