@@ -14,8 +14,5 @@
 <p align="center">
   <a href="https://github.com/pikokr">@pikokr</a>
   |
-  <a href="https://github.com/SeodanLee">@SeodanLee</a>
-  |
-  <a href="https://github.com/qwreey75">@qwreey75</a>
- </p>
- 
+  <a href="https://github.com/CrackThrough">@CrackThrough</a>
+
