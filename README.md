@@ -1,5 +1,5 @@
 <h1 align="center">Starcea / 스타샤</h1>
-<p align="center">학생 개발자 스타샤에요! <a href="https://starcea.notion.site/16f52386b2484925ae01bccab995b601">포트폴리오</a></p>
+<p align="center">학생 개발자 스타샤에요! <a href="https://starcea.vercel.app">포트폴리오</a></p>
 
 <h3 align="center">연락처</h2>
 <p align="center">
