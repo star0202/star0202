@@ -64,7 +64,7 @@
 - [neis.ts](https://github.com/star0202/neis.ts) (2023~)
     - TypeScript, axios, jest, ESLint, Prettier...
 
-- [portfolio](https://github.com/star0202/portfolio) (2023~)
+- [portfolio](https://github.com/star0202/portfolio) (2023~) w/ [@pikokr](https://github.com/pikokr)
     - TypeScript, Vue, Scss, Tailwind CSS, Vite, Prettier...
 
 - [Elaina](https://github.com/star0202/Elaina) (2023~)
