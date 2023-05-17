@@ -6,6 +6,8 @@
 ## 기본 정보
 - 2009/02/02 출생
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Starcea)](https://solved.ac/profile/Starcea)
+
 ## 학력
 - 강남의 모 초등학교 (2016 ~ 2022)
 - 강남의 모 중학교 (2022~)
