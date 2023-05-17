@@ -291,3 +291,8 @@
 ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </details>
+
+## 📮 연락처
+- [Discord Server](https://discord.gg/APKV8NF8Wd)
+- [Gmail](mailto:stardev.uwu@gmail.com)
+- [CRSD Mail](mailto:star@crsd.team)
