@@ -67,7 +67,9 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_repositories: yes
-          plugin_notable_skipped: "@stxarchive/*"
+          plugin_notable_skipped: |
+            @use.patterns
+            stxarchive/*
           plugin_notable_types: commit, pull_request, issue
           plugin_people: yes
           plugin_people_limit: 50
