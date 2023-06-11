@@ -4,7 +4,9 @@
   <a href="https://starcea.vercel.app">Portfolio</a>
   <br>
   <br>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Starcea">
+  <a href="https://solved.ac/starcea">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Starcea">
+  </a>
 </p>
 
 <h3 align="center">Contacts</h3>
