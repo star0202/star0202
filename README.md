@@ -1,5 +1,11 @@
 <h1 align="center">🏳️‍⚧️ ⭐ Starcea / 스타샤</h1>
-<p align="center">I'm Student Developer Starcea (스타샤)! <a href="https://starcea.vercel.app">Portfolio</a> <a href="/detailed.md">(Detailed - KR)</a></p>
+<p align="center">
+  I'm Student Developer Starcea (스타샤)!
+  <a href="https://starcea.vercel.app">Portfolio</a>
+  <br>
+  <br>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Starcea">
+</p>
 
 <h3 align="center">Contacts</h3>
 <p align="center">
