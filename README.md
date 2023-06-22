@@ -5,7 +5,7 @@
   <br>
   <br>
   <a href="https://solved.ac/starcea">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Starcea">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=starcea">
   </a>
 </p>
 
