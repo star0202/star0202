@@ -1,7 +1,6 @@
 <h1 align="center">🏳️‍⚧️ ⭐ Starcea / 스타샤</h1>
 <p align="center">
   I'm Student Developer Starcea (스타샤)!
-  <a href="https://starcea.vercel.app">Portfolio</a>
   <br>
   <br>
   <a href="https://solved.ac/starcea">
