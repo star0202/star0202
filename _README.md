@@ -19,11 +19,11 @@
   <a href="https://toss.me/starcea">Toss</a>
 </p>
 
-<h3 align="center">Listening to...</h3>
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31wxyhzs4wg6zkqantkudtvkg364&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31wxyhzs4wg6zkqantkudtvkg364&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
-  </a>
+<h3 align="center">My Status</h3>
+<div align="center">
+  <img src="https://discord-profile-starcea.paring.moe/discord/798690702635827200">
+  <br>
+  <img src="https://discord-profile-starcea.paring.moe/spotify/798690702635827200">
 </p>
 
 <h3 align="center">Metrics</h3>
