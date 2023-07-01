@@ -19,7 +19,11 @@
   <a href="https://toss.me/starcea">Toss</a>
 </p>
 
-
+<h3 align="center">My Status</h3>
+<div align="center">
+  <img src="https://discord-profile-starcea.paring.moe/discord/798690702635827200">
+  <img src="https://discord-profile-starcea.paring.moe/spotify/798690702635827200">
+</p>
 
 <h3 align="center">Metrics</h3>
 <p align="center">
