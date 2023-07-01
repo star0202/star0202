@@ -3,7 +3,7 @@
   I'm Student Developer Starcea (스타샤)!
   <br>
   <br>
-  <a href="https://solved.ac/starcea">
+  <a href="https://solved.ac/profile/starcea">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=starcea">
   </a>
 </p>
