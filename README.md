@@ -1,6 +1,7 @@
-# 🏳️‍⚧️ ⭐ Starcea / 스타샤</h1>
+# 🏳️‍⚧️ ⭐ Starcea / 스타샤
 I'm Student Developer Starcea (스타샤)! :wave:
-> Powered by [discord-profile](https://github.com/star0202/discord-profile)
+
+Website: https://starcea.vercel.app/
 
 ## Contacts
 [![Gmail](https://img.shields.io/badge/stardev.uwu@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:stardev.uwu@gmail.com)
