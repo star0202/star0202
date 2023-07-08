@@ -1,36 +1,20 @@
-<h1 align="center">🏳️‍⚧️ ⭐ Starcea / 스타샤</h1>
-<p align="center">
-  I'm Student Developer Starcea (스타샤)!
-  <br>
-  <br>
-  <a href="https://solved.ac/profile/starcea">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=starcea">
-  </a>
-</p>
+# 🏳️‍⚧️ ⭐ Starcea / 스타샤</h1>
+I'm Student Developer Starcea (스타샤)! :wave:
+> Powered by [discord-profile](https://github.com/star0202/discord-profile)
 
-<h3 align="center">Contacts</h3>
-<p align="center">
-  <a href="https://discord.gg/APKV8NF8Wd">Discord</a>
-  |
-  <a href="mailto:stardev.uwu@gmail.com">Gmail</a>
-  |
-  <a href="mailto:star@crsd.team">CRSD Mail</a>
-  |
-  <a href="https://toss.me/starcea">Toss</a>
-</p>
+## Contacts
+[![Gmail](https://img.shields.io/badge/stardev.uwu@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:stardev.uwu@gmail.com)
 
-<h3 align="center">My Status</h3>
-<div align="center">
-  <a href="https://discord-profile-starcea.paring.moe">
-    <img src="https://discord-profile-starcea.paring.moe/discord/798690702635827200?">
-    <br>
-    <img src="https://discord-profile-starcea.paring.moe/spotify/798690702635827200?">
-  </a>
-</p>
+[![Discord](https://discord-profile-starcea.paring.moe/discord/798690702635827200)](https://discord.gg/APKV8NF8Wd)
 
-<h3 align="center">Metrics</h3>
-<p align="center">
-  <a href="https://github.com/lowlighter/metrics">
-    <img src="/github-metrics.svg">
-  </a>
-</p>
+## Status
+[![Spotify](https://discord-profile-starcea.paring.moe/spotify/798690702635827200)](https://open.spotify.com/user/31wxyhzs4wg6zkqantkudtvkg364?si=e30f0b6e0bb24a18)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=starcea)](https://solved.ac/profile/starcea)
+
+## Metrics
+<details><summary>Show</summary>
+
+[![Metrics](/github-metrics.svg)](https://github.com/lowlighter/metrics)
+
+</details>
