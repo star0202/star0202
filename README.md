@@ -1,7 +1,12 @@
 # 🏳️‍⚧️ ⭐ Starcea / 스타샤
-I'm Student Developer Starcea (스타샤)! :wave:
+:wave: I'm Student Developer Starcea (스타샤)!
 
-Website: https://starcea.vercel.app/
+## About Me
+:birthday: Birthday: 2/2/2009 (1233544860)
+
+🗣️ Language: Korean(Native), English(Intermediate)
+
+> Check out [my website](https://starcea.vercel.app) for more info
 
 ## Contacts
 [![Gmail](https://img.shields.io/badge/stardev.uwu@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:stardev.uwu@gmail.com)
