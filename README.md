@@ -6,7 +6,7 @@
 
 🗣️ Language: Korean(Native), English(Intermediate)
 
-💡 Interested in: Math, Computer Science, Piano, Rhythm Game, etc...
+💡 Interested in: Math, Computer Science, Piano, Rhythm Game, [Music](https://open.spotify.com/playlist/4s5YGEogv1wryJlmlE5Hs0?si=43f825681d3b4ad7), etc...
 
 > Check out [my website](https://starcea.vercel.app) for more info
 
