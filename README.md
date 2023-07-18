@@ -16,7 +16,7 @@
 [![Discord](https://discord-profile-starcea.paring.moe/discord/798690702635827200?)](https://discord.gg/APKV8NF8Wd)
 
 ## Status
-[![Spotify](https://discord-profile-starcea.paring.moe/spotify/798690702635827200?)](https://open.spotify.com/user/31wxyhzs4wg6zkqantkudtvkg364?si=e30f0b6e0bb24a18)
+[![Spotify](https://discord-profile-starcea.paring.moe/spotify/798690702635827200?)](https://discord-profile-starcea.paring.moe/spotify/798690702635827200?redirect=true)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=starcea)](https://solved.ac/profile/starcea)
 
