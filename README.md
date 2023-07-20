@@ -16,6 +16,8 @@
 [![Discord](https://discord-profile-starcea.paring.moe/discord/798690702635827200?)](https://discord.gg/APKV8NF8Wd)
 [![Discord alt](https://discord-profile-starcea.paring.moe/discord/941180689565491220)](https://github.com/star0202/discord-profile)
 
+> Use @actsear if you want quick response (except when offline)
+
 ## Status
 [![Spotify](https://discord-profile-starcea.paring.moe/spotify/798690702635827200?)](https://discord-profile-starcea.paring.moe/spotify/798690702635827200?redirect=true)
 
