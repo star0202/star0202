@@ -72,7 +72,7 @@ jobs:
             stxarchive/*
           plugin_notable_types: commit, pull_request, issue
           plugin_people: yes
-          plugin_people_limit: 50
+          plugin_people_limit: 100
           plugin_people_shuffle: yes
           plugin_people_size: 28
           plugin_people_types: followers, following
