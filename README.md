@@ -2,7 +2,7 @@
 :wave: I'm Student Developer Starcea (스타샤)!
 
 ## About Me
-:birthday: Birthday: 2/2/2009 (UNIX: `1233544860`)
+:birthday: Birthday: 02/02/2009 (UNIX: `1233544860`)
 
 🗣️ Language: Korean(Native), English(Intermediate)
 
