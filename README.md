@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate student from **Seoul**, **South K
 
 🔧 Currently, I'm working on [**@team-crescendo**](https://github.com/team-crescendo) and [**@koreanbots**](https://github.com/koreanbots).
 
-💡 I believe in the power of community and open source. That's why I'm contributing to open-source projects and creating my projects.
+💡 I believe in the power of community and open source. That's why I'm contributing to open-source projects and creating my own projects.
 
 📫 You can meet me on Discord **@starcea**, or you can send me an email to [**stardev.uwu@gmail.com**](mailto:stardev.uwu@gmail.com)
 
