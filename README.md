@@ -16,3 +16,10 @@ Feel free to explore my repositories and contribute to them. I'm always open to 
 [![Spotify](https://discord-profile-starcea.paring.moe/spotify/798690702635827200?)](https://discord-profile-starcea.paring.moe/spotify/798690702635827200?redirect=true)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=starcea)](https://solved.ac/profile/starcea)
+
+<details>
+<summary>Metrics</summary>
+
+[![Metrics](/github-metrics.svg)](https://github.com/lowlighter/metrics)
+
+</details>
