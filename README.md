@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 [![Discord](https://img.shields.io/badge/@starcea-5865F2?logo=discord&logoColor=white)](https://discord.gg/APKV8NF8Wd)
 [![Twitter (Public)](https://img.shields.io/badge/@starcea__e-1d9bf0?logo=twitter&logoColor=white)](https://twitter.com/starcea_e)
