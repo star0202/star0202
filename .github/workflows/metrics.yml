@@ -32,7 +32,7 @@ jobs:
           plugin_16personalities: yes
           plugin_16personalities_scores: yes
           plugin_16personalities_sections: personality, traits
-          plugin_16personalities_url: https://www.16personalities.com/profiles/f3d1c27d3a3ec
+          plugin_16personalities_url: https://www.16personalities.com/profiles/27b48e33e23ee
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
