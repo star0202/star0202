@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 [![Discord](https://img.shields.io/badge/@starcea-5865F2?logo=discord&logoColor=white)](https://discord.gg/APKV8NF8Wd)
-[![Twitter (Public)](https://img.shields.io/badge/@starcea__e-1d9bf0?logo=twitter&logoColor=white)](https://twitter.com/starcea_e)
-[![Twitter (Personal)](https://img.shields.io/badge/@starcea__p-1d9bf0?logo=twitter&logoColor=white)](https://twitter.com/starcea_p)
+[![Twitter](https://img.shields.io/badge/@starcea__p-1d9bf0?logo=twitter&logoColor=white)](https://twitter.com/starcea_p)
 [![Gmail](https://img.shields.io/badge/stardev.uwu%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:stardev.uwu@gmail.com)
 [![Spotify](https://img.shields.io/badge/Spotify_Playlist-1ed760?logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4s5YGEogv1wryJlmlE5Hs0?si=de15b71923374b7f)
 
