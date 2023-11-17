@@ -19,9 +19,11 @@
 [![solved.ac](https://solvedac-cards-starcea.paring.moe/profile/starcea)](https://solved.ac/profile/starcea)
 [![Spotify](https://discord-profile-starcea.paring.moe/spotify/798690702635827200?)](https://open.spotify.com/playlist/4s5YGEogv1wryJlmlE5Hs0?si=de15b71923374b7f)
 
+<!--
 <details>
 <summary>Metrics</summary>
 
 [![Metrics](/github-metrics.svg)](https://github.com/lowlighter/metrics)
 
 </details>
+-->
