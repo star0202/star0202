@@ -9,15 +9,17 @@
 
 📝 Currently studying in middle school and [**SNU Science Education Institute for Gifted**](http://gifted.snu.ac.kr/main/index.action).
 
-💡 Interested in **Linear Algebra**, **Number Theory**, **Machine Learning**, and **Web Development**.
+💡 Interested in **Algorithms**, **Number Theory**, **ML/AI**, **Web Development**, and **Rhythm Games**.
 
 🚀 Feel free to explore my projects! I'm always open to new ideas and suggestions. **Let's shape the future together!**
 
-> _"The best way to predict the future is to create it." - Abraham Lincoln & Peter Drucker_
+📮 If you want to contact me, you can reach me via my [**public contacts**](/CONTACT.md)!
 
 [![Discord](https://discord-profile-starcea.paring.moe/discord/798690702635827200?)](https://discord.gg/APKV8NF8Wd)
 [![solved.ac](https://solvedac-cards-starcea.paring.moe/profile/starcea)](https://solved.ac/profile/starcea)
 [![Spotify](https://discord-profile-starcea.paring.moe/spotify/798690702635827200?)](https://open.spotify.com/playlist/4s5YGEogv1wryJlmlE5Hs0?si=de15b71923374b7f)
+
+> Love my widgets? Check out my projects [**discord-profile**](https://github.com/star0202/discord-profile) and [**solvedac-cards**](https://github.com/star0202/solvedac-cards)!
 
 <!--
 <details>
