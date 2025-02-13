@@ -8,7 +8,7 @@
 
 👋 Welcome to my GitHub profile! I'm **Starcea**, an aspiring student developer from **Seoul**, **South Korea**.
 
-📝 Currently studying in middle school and [**SNU Science Education Institute for Gifted**](http://gifted.snu.ac.kr/main/index.action).
+📝 Currently studying in high school.
 
 💡 Interested in **Algorithms**, **Number Theory**, **ML/AI**, **Web Development**, and **Rhythm Games**.
 
