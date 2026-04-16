@@ -1,6 +1,4 @@
-## Hi there 👋
-
-[![Gmail](https://img.shields.io/badge/stardev.uwu%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:stardev.uwu@gmail.com)
+### Hi there 👋
 
 🚀 Aspirant **Techno-ethicist** and **idealist** in digital spaces, an advocate for [**Free Software**](https://gnu.org/philosophy/free-sw.html).
 
